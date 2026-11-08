@@ -1,4 +1,5 @@
 <?php
+use MediaWiki\Parser\Parser;
 
 class ExtFixedHeader {
 
